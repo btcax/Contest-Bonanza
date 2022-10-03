@@ -1,2 +1,2 @@
-# Contest-Bonanza-
+# Contest Bonanza
 RedFlagDeals contest aggregator app
