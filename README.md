@@ -1,2 +1,2 @@
-# Contest Bonanza
-RedFlagDeals contest aggregator app
+# Contest Craze
+A Python wrapper for contests hosted on RedFlagDeals
